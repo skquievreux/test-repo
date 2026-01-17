@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-repo
+  description: |
+    No description provided
+  annotations:
+    github.com/project-slug: skquievreux/test-repo
+spec:
+  type: library
+  lifecycle: experimental
+  owner: guests
