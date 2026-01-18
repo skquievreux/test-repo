@@ -6,6 +6,7 @@ metadata:
     No description provided
   annotations:
     github.com/project-slug: skquievreux/test-repo
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: library
   lifecycle: experimental
